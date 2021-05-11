@@ -25,22 +25,13 @@
         "ISO2": "NZ"
     },
     {
-        "Country": "Saint-Martin (French part)",
-        "Slug": "saint-martin-french-part",
-        "ISO2": "MF"
-    },
-    {
         "Country": "Cape Verde",
         "Slug": "cape-verde",
         "ISO2": "CV"
     },
+
     {
-        "Country": "Cocos (Keeling) Islands",
-        "Slug": "cocos-keeling-islands",
-        "ISO2": "CC"
-    },
-    {
-        "Country": "Congo (Brazzaville)",
+        "Country": "Congo",
         "Slug": "congo-brazzaville",
         "ISO2": "CG"
     },
@@ -125,11 +116,6 @@
         "ISO2": "MD"
     },
     {
-        "Country": "South Georgia and the South Sandwich Islands",
-        "Slug": "south-georgia-and-the-south-sandwich-islands",
-        "ISO2": "GS"
-    },
-    {
         "Country": "Cambodia",
         "Slug": "cambodia",
         "ISO2": "KH"
@@ -145,7 +131,7 @@
         "ISO2": "KE"
     },
     {
-        "Country": "Micronesia, Federated States of",
+        "Country": "Micronesia",
         "Slug": "micronesia",
         "ISO2": "FM"
     },
@@ -159,11 +145,7 @@
         "Slug": "chad",
         "ISO2": "TD"
     },
-    {
-        "Country": "Heard and Mcdonald Islands",
-        "Slug": "heard-and-mcdonald-islands",
-        "ISO2": "HM"
-    },
+
     {
         "Country": "Jamaica",
         "Slug": "jamaica",
@@ -180,7 +162,7 @@
         "ISO2": "PG"
     },
     {
-        "Country": "Poland",
+        "Country": "Ba Lan",
         "Slug": "poland",
         "ISO2": "PL"
     },
@@ -210,7 +192,7 @@
         "ISO2": "PY"
     },
     {
-        "Country": "Denmark",
+        "Country": "Đan Mạch",
         "Slug": "denmark",
         "ISO2": "DK"
     },
@@ -259,11 +241,7 @@
         "Slug": "cameroon",
         "ISO2": "CM"
     },
-    {
-        "Country": "Isle of Man",
-        "Slug": "isle-of-man",
-        "ISO2": "IM"
-    },
+
     {
         "Country": "Rwanda",
         "Slug": "rwanda",
@@ -295,7 +273,7 @@
         "ISO2": "UZ"
     },
     {
-        "Country": "Egypt",
+        "Country": "Ai Cập",
         "Slug": "egypt",
         "ISO2": "EG"
     },
@@ -325,7 +303,7 @@
         "ISO2": "PH"
     },
     {
-        "Country": "South Africa",
+        "Country": "South Africa (Nam Phi)",
         "Slug": "south-africa",
         "ISO2": "ZA"
     },
@@ -350,7 +328,7 @@
         "ISO2": "GQ"
     },
     {
-        "Country": "Finland",
+        "Country": "Phần Lan",
         "Slug": "finland",
         "ISO2": "FI"
     },
@@ -380,7 +358,7 @@
         "ISO2": "SC"
     },
     {
-        "Country": "Tanzania, United Republic of",
+        "Country": "Tanzania",
         "Slug": "tanzania",
         "ISO2": "TZ"
     },
@@ -404,11 +382,7 @@
         "Slug": "chile",
         "ISO2": "CL"
     },
-    {
-        "Country": "China",
-        "Slug": "china",
-        "ISO2": "CN"
-    },
+
     {
         "Country": "Trung Quốc",
         "Slug": "china",
@@ -434,18 +408,13 @@
         "Slug": "czech-republic",
         "ISO2": "CZ"
     },
-    {
-        "Country": "Japan",
-        "Slug": "japan",
-        "ISO2": "JP"
-    },
         {
         "Country": "Nhật Bản",
         "Slug": "japan",
         "ISO2": "JP"
     },
     {
-        "Country": "Syrian Arab Republic (Syria)",
+        "Country": "Syria",
         "Slug": "syria",
         "ISO2": "SY"
     },
@@ -460,14 +429,9 @@
         "ISO2": "OM"
     },
     {
-        "Country": "Thailand",
+        "Country": "Thái Lan",
         "Slug": "thailand",
         "ISO2": "TH"
-    },
-    {
-        "Country": "Marshall Islands",
-        "Slug": "marshall-islands",
-        "ISO2": "MH"
     },
     {
         "Country": "Bulgaria",
@@ -535,11 +499,6 @@
         "ISO2": "BM"
     },
     {
-        "Country": "Faroe Islands",
-        "Slug": "faroe-islands",
-        "ISO2": "FO"
-    },
-    {
         "Country": "Jersey",
         "Slug": "jersey",
         "ISO2": "JE"
@@ -585,7 +544,7 @@
         "ISO2": "VA"
     },
     {
-        "Country": "Venezuela (Bolivarian Republic)",
+        "Country": "Venezuela",
         "Slug": "venezuela",
         "ISO2": "VE"
     },
@@ -705,7 +664,12 @@
         "ISO2": "SI"
     },
     {
-        "Country": "Taiwan, Republic of China",
+        "Country": "Taiwan",
+        "Slug": "taiwan",
+        "ISO2": "TW"
+    },
+        {
+        "Country": "Đài Loan",
         "Slug": "taiwan",
         "ISO2": "TW"
     },
@@ -736,13 +700,8 @@
     },
     {
         "Country": "Sierra Leone",
-        "Slug": "sierra-leone",
+        "Slug": "sl",
         "ISO2": "SL"
-    },
-    {
-        "Country": "Wallis and Futuna Islands",
-        "Slug": "wallis-and-futuna-islands",
-        "ISO2": "WF"
     },
     {
         "Country": "Ethiopia",
@@ -755,11 +714,6 @@
         "ISO2": "HN"
     },
     {
-        "Country": "Réunion",
-        "Slug": "réunion",
-        "ISO2": "RE"
-    },
-    {
         "Country": "Bahamas",
         "Slug": "bahamas",
         "ISO2": "BS"
@@ -770,18 +724,13 @@
         "ISO2": "BN"
     },
     {
-        "Country": "Central African Republic",
-        "Slug": "central-african-republic",
-        "ISO2": "CF"
-    },
-    {
         "Country": "Mauritius",
         "Slug": "mauritius",
         "ISO2": "MU"
     },
     {
         "Country": "United States of America",
-        "Slug": "united-states",
+        "Slug": "usa",
         "ISO2": "US"
     },
       {
@@ -791,7 +740,7 @@
     },
       {
         "Country": "Hoa Kì",
-        "Slug": "united-states",
+        "Slug": "usa",
         "ISO2": "US"
     },
     {
@@ -820,11 +769,6 @@
         "ISO2": "GT"
     },
     {
-        "Country": "Hong Kong, SAR China",
-        "Slug": "hong-kong-sar-china",
-        "ISO2": "HK"
-    },
-    {
         "Country": "India",
         "Slug": "india",
         "ISO2": "IN"
@@ -834,11 +778,7 @@
         "Slug": "india",
         "ISO2": "IN"
     },
-    {
-        "Country": "Cook Islands",
-        "Slug": "cook-islands",
-        "ISO2": "CK"
-    },
+ 
     {
         "Country": "French Guiana",
         "Slug": "french-guiana",
@@ -855,12 +795,12 @@
         "ISO2": "BD"
     },
     {
-        "Country": "Congo (Kinshasa)",
-        "Slug": "congo-kinshasa",
+        "Country": "Congo",
+        "Slug": "cd",
         "ISO2": "CD"
     },
     {
-        "Country": "Iran, Islamic Republic of",
+        "Country": "Iran",
         "Slug": "iran",
         "ISO2": "IR"
     },
@@ -870,18 +810,18 @@
         "ISO2": "QA"
     },
     {
-        "Country": "Palestinian Territory",
+        "Country": "Palestinian",
         "Slug": "palestine",
         "ISO2": "PS"
     },
     {
         "Country": "United Kingdom",
-        "Slug": "united-kingdom",
+        "Slug": "uk",
         "ISO2": "GB"
     },
         {
         "Country": "Anh",
-        "Slug": "united-kingdom",
+        "Slug": "uk",
         "ISO2": "GB"
     },
     {
@@ -889,28 +829,13 @@
         "Slug": "andorra",
         "ISO2": "AD"
     },
-    {
-        "Country": "Bouvet Island",
-        "Slug": "bouvet-island",
-        "ISO2": "BV"
-    },
-    {
-        "Country": "France",
-        "Slug": "france",
-        "ISO2": "FR"
-    },
         {
         "Country": "Pháp",
         "Slug": "france",
         "ISO2": "FR"
     },
     {
-        "Country": "Macao, SAR China",
-        "Slug": "macao-sar-china",
-        "ISO2": "MO"
-    },
-    {
-        "Country": "Macedonia, Republic of",
+        "Country": "Macedonia",
         "Slug": "macedonia",
         "ISO2": "MK"
     },
@@ -945,12 +870,7 @@
         "ISO2": "BO"
     },
     {
-        "Country": "Côte d'Ivoire",
-        "Slug": "cote-divoire",
-        "ISO2": "CI"
-    },
-    {
-        "Country": "Lao PDR",
+        "Country": "Lào",
         "Slug": "lao-pdr",
         "ISO2": "LA"
     },
@@ -970,23 +890,14 @@
         "ISO2": "AO"
     },
     {
-        "Country": "Antarctica",
-        "Slug": "antarctica",
-        "ISO2": "AQ"
-    },
-    {
         "Country": "Guadeloupe",
         "Slug": "guadeloupe",
         "ISO2": "GP"
     },
+
     {
-        "Country": "French Southern Territories",
-        "Slug": "french-southern-territories",
-        "ISO2": "TF"
-    },
-    {
-        "Country": "Korea (South)",
-        "Slug": "korea-south",
+        "Country": "Hàn Quốc",
+        "Slug": "kr",
         "ISO2": "KR"
     },
     {
@@ -1020,13 +931,8 @@
         "ISO2": "MX"
     },
     {
-        "Country": "Northern Mariana Islands",
-        "Slug": "northern-mariana-islands",
-        "ISO2": "MP"
-    },
-    {
         "Country": "Saudi Arabia",
-        "Slug": "saudi-arabia",
+        "Slug": "sa",
         "ISO2": "SA"
     },
     {
@@ -1049,36 +955,15 @@
         "Slug": "vietnam",
         "ISO2": "VN"
     },
-
-    {
-        "Country": "Falkland Islands (Malvinas)",
-        "Slug": "falkland-islands-malvinas",
-        "ISO2": "FK"
-    },
     {
         "Country": "Peru",
         "Slug": "peru",
         "ISO2": "PE"
     },
     {
-        "Country": "Solomon Islands",
-        "Slug": "solomon-islands",
-        "ISO2": "SB"
-    },
-    {
         "Country": "Belize",
         "Slug": "belize",
         "ISO2": "BZ"
-    },
-    {
-        "Country": "Virgin Islands, US",
-        "Slug": "virgin-islands",
-        "ISO2": "VI"
-    },
-    {
-        "Country": "Russian Federation",
-        "Slug": "russia",
-        "ISO2": "RU"
     },
     {
         "Country": "Nga",
@@ -1117,11 +1002,6 @@
         "ISO2": "MM"
     },
     {
-        "Country": "Norfolk Island",
-        "Slug": "norfolk-island",
-        "ISO2": "NF"
-    },
-    {
         "Country": "Malta",
         "Slug": "malta",
         "ISO2": "MT"
@@ -1133,21 +1013,11 @@
     },
     {
         "Country": "Bosnia and Herzegovina",
-        "Slug": "bosnia-and-herzegovina",
+        "Slug": "bosnia",
         "ISO2": "BA"
     },
     {
-        "Country": "British Indian Ocean Territory",
-        "Slug": "british-indian-ocean-territory",
-        "ISO2": "IO"
-    },
-    {
-        "Country": "Saint Helena",
-        "Slug": "saint-helena",
-        "ISO2": "SH"
-    },
-    {
-        "Country": "Turkey",
+        "Country": "Thổ Nhĩ Kì",
         "Slug": "turkey",
         "ISO2": "TR"
     },
@@ -1165,11 +1035,6 @@
         "Country": "Puerto Rico",
         "Slug": "puerto-rico",
         "ISO2": "PR"
-    },
-    {
-        "Country": "Turks and Caicos Islands",
-        "Slug": "turks-and-caicos-islands",
-        "ISO2": "TC"
     },
     {
         "Country": "Vanuatu",
@@ -1217,16 +1082,6 @@
         "ISO2": "LC"
     },
     {
-        "Country": "Saint Vincent and Grenadines",
-        "Slug": "saint-vincent-and-the-grenadines",
-        "ISO2": "VC"
-    },
-    {
-        "Country": "Saint-Barthélemy",
-        "Slug": "saint-barthélemy",
-        "ISO2": "BL"
-    },
-    {
         "Country": "Uganda",
         "Slug": "uganda",
         "ISO2": "UG"
@@ -1242,19 +1097,9 @@
         "ISO2": "ES"
     },
     {
-        "Country": "Svalbard and Jan Mayen Islands",
-        "Slug": "svalbard-and-jan-mayen-islands",
-        "ISO2": "SJ"
-    },
-    {
         "Country": "Swaziland",
         "Slug": "swaziland",
         "ISO2": "SZ"
-    },
-    {
-        "Country": "US Minor Outlying Islands",
-        "Slug": "us-minor-outlying-islands",
-        "ISO2": "UM"
     },
     {
         "Country": "Fiji",
